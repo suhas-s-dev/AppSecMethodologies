@@ -1,2 +1,2 @@
 # AppSecMethodologies
-Just a collection of tips and paylaods
+Just a collection of tips and payloads
